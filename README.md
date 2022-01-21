@@ -33,9 +33,19 @@ With these three blocks in mind, further development proceeds *agile* with small
 
 ## Step by Step
 
-1. Main concept - ideas
-2. Create a new react app 
-3. Setup Firebase (firestore & authentication - npm install - config-file - .env - gitignore)
+1. Main concept - ideas - 1u 
+2. Create a new react app (create - clean up - favicon)- 1/2u 
+3. Setup Firebase (firestore & authentication - npm install - config-file - .env - gitignore) - 1u
+4. Routes - 10 min (further thinking about structure -> also detailpages)
+5. Navbar
+6. Sidebar
+7. Signup Page
+8. File inputs
+9. Link to firebase
+10. Profile image
+11. User signin
+12. User documents
+13. Hooks
 
 ## Questions
  
