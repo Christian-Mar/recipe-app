@@ -49,7 +49,8 @@ With these three blocks in mind, further development proceeds *agile* with small
 
 ## Questions
  
-- What about loading images in Firestore?  
+- What about loading images in Firestore? 
+- Modal - https://www.youtube.com/watch?v=9DwGahSqcEc 
 
 
 
