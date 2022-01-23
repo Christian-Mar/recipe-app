@@ -1,3 +1,7 @@
+.App_container {
+  display: flex;
+}
+
 .App {
   display: flex;
   flex-direction: column;

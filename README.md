@@ -38,7 +38,7 @@ With these three blocks in mind, further development proceeds *agile* with small
 3. Setup Firebase (firestore & authentication - npm install - config-file - .env - gitignore) - 1u
 4. Routes - 10 min (further thinking about structure -> also detailpages)
 5. Navbar 
-6. Sidebar
+6. Sidebar (when user is logged in)
 7. Signup Page
 8. File inputs
 9. Link to firebase
