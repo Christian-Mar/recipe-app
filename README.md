@@ -19,7 +19,7 @@ The recipe-app has a frontend in React and a backend in Firebase 9, using Firest
 - Github
 - Firebase 9
 - Sources: pixabay.com - favicon.io
-
+- npm: 'npx create-react-app@latest recipe-app' - npm i firebase' - 'npm install react-router-dom@6'
 ## Approach taken
 
 The goal to be achieved for the user: 
@@ -37,7 +37,7 @@ With these three blocks in mind, further development proceeds *agile* with small
 2. Create a new react app (create - clean up - favicon)- 1/2u 
 3. Setup Firebase (firestore & authentication - npm install - config-file - .env - gitignore) - 1u
 4. Routes - 10 min (further thinking about structure -> also detailpages)
-5. Navbar
+5. Navbar 
 6. Sidebar
 7. Signup Page
 8. File inputs
