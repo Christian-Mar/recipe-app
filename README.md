@@ -41,7 +41,7 @@ With these three blocks in mind, further development proceeds *agile* with small
 6. Sidebar (when user is logged in)
 7. Signup Page
 8. File inputs
-9. Link to firebase
+9. Link to firebase (besides firestore & authentication, we're also using Firebase storage)
 10. Profile image
 11. User signin
 12. User documents
