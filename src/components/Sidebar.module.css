@@ -3,7 +3,7 @@
 .sidebar {
   width: 300px;
   min-width: 300px;
-  background: linear-gradient(90deg, hsla(120, 6%, 90%, 1) 0%, hsla(228, 75%, 16%, 1) 100%);
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
   min-height: 100vh;
   box-sizing: border-box;
   position: relative;
